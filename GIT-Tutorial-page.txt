@@ -1,0 +1,8 @@
+git config --global user.name "Maureen O'Flynn"
+
+git config --global user.email maureen.oflynn35@gmail.com
+
+C:/Users/May/Desktop/MyProjects
+
+
+https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository
